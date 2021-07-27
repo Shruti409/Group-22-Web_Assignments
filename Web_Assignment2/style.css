@@ -72,4 +72,7 @@ dd:hover{
 
 
 }
-
+@media  screen and (max-width:526px){
+    .heading h1{font-size: 90%;}
+    
+}
